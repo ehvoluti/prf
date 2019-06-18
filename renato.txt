@@ -1,0 +1,28 @@
+Site PR
+
+- Plano de saude 
+- Consorcio
+- Previdencia
+- Seguro de Vida regastavel
+- Parceiros
+
+Cores:
+vermelho
+
+Slogan:
+
+Logo:
+Sugesão: Criar "P" - Vermelho , "R" - Azul e o "F" degrade entre vermelho e azul
+
+Desenvolvimento:
+Margin menu
+envio de email
+Maps
+footer
+parceiros
+
+
+Exemplos:
+horizon.srv.br
+airesseguros.com.br
+barela.com.br
