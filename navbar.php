@@ -1,14 +1,16 @@
-﻿<div class="container-fluid">
-	<nav class="navbar fixed-top navbar-expand-lg bg-info navbar-dark">
+﻿<nav class="navbar navbar-inverse">
+<div class="container-fluid">
+	<div class="navbar fixed-top navbar-expand-lg bg-info navbar-dark">
 		<a href="#" class="navbar-brand"><img id="logo" src="img/logo_PRF_g2.png"></a>
-		<button class="navbar-toggler" data-toggle="collapse" data-target="#menu">
+		<!-- SMARTPHONE -->
+		<button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#menu" aria-expanded="false">
 			<span class="navbar-toggler-icon"></span>
 		</button>
 		<!-- Links do Menu -->
 		<div id="menu" class="collapse navbar-collapse">
-			<ul class="navbar-nav ml-md-auto">
-				<li class="nav-item active">
-					<a class="nav-link" href="#planosaude">Plano de Saúde</a>
+			<ul class="nav navbar-nav ml-md-auto">
+				<li class="nav-item">
+					<a class="nav-link" href="?i=#planosaude">Plano de Saúde</a>
 				</li>	
 				<li class="nav-item">
 					<a class="nav-link" href="#previdencia">Previdência</a>
@@ -24,5 +26,6 @@
 				</li>					
 			</ul>
 		</div>
-	</nav>
+	</div>
 </div>
+</nav>	

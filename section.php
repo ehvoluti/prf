@@ -23,7 +23,7 @@
       </div>
       <div  class="col-lg-3 mx-auto">
         <figure class="figuras">
-          <img src="img/planosaude01.png"  alt="">
+          <img id="imgsection" src="img/planosaude01.png"  alt="">
           <figcaption>
               <h5><button class="btn btn-secondary" data-nome="btn01" data-toggle="modal" data-target="#conteudoModal">Quero um Contato</button></h5>
           </figcaption>
@@ -46,7 +46,7 @@
       </div>
       <div  class="col-lg-3 mx-auto">
         <figure class="figuras">
-          <img src="img/previdencia01.png"  alt="">
+          <img id="imgsection" src="img/previdencia01.png"  alt="">
           <figcaption>
               <h5><button class="btn btn-secondary" data-nome="btn01" data-toggle="modal" data-target="#conteudoModal">Quero um Contato</button></h5>
           </figcaption>
@@ -88,7 +88,7 @@
         <!--<button class="btn btn-secondary" data-nome="btn01" data-toggle="modal" data-target="#conteudoModal">Quero um Contato</button> -->
         <!-- Utilizando imagem      -->
         <figure class="figuras">
-          <img src="img/caixa_coracao.png"  alt="">
+          <img id="imgsection" src="img/caixa_coracao.png"  alt="">
           <figcaption>
               <h5><button class="btn btn-secondary" data-nome="btn01" data-toggle="modal" data-target="#conteudoModal">Quero um Contato</button></h5>
           </figcaption>
@@ -112,7 +112,7 @@
           <!--<button class="btn btn-secondary" data-nome="btn01" data-toggle="modal" data-target="#conteudoModal">Quero um Contato</button> -->
           <!-- Utilizando imagem      -->
           <figure class="figuras">
-            <img src="img/trabalho01.jpg"  alt="">
+            <img id="imgsection" src="img/trabalho01.jpg"  alt="">
           </figure>  
         </div>  
 
